@@ -1,5 +1,58 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  .row
+    .large-12.columns
+      h1 Teamplayer
+        small Tippspiel f&uuml;r die Fu&szlig;ballweltmeisterschaft 2014
+
+  .row
+    .large-12.columns
+      h3 N&auml;chster Spieltag
+        small 12. Juni
+
+  .row
+    .large-12.columns
+      .panel
+        table.match
+          tbody
+            tr
+              td.team.A
+                p
+                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png')
+                p.country Mexiko
+              td.score
+                h6 Tipp abgeben
+                p.tip 
+                  span
+                    input.tip(type='text',placeholder='-',maxlength=1)
+                  span &nbsp;:&nbsp;
+                  span 
+                    input.tip(type='text',placeholder='-',maxlength=1)
+              td.team.B
+                p
+                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/320px-Flag_of_Honduras.svg.png')
+                p.country Honduras
+
+  .row
+    .large-12.columns
+      h3 Letzter Spieltag
+        small 11. Juni
+
+  .row
+    .large-12.columns
+      .panel
+        table.match
+          tbody
+            tr
+              td.team.A
+                p
+                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png')
+                p.country Mexiko
+              td.score
+                p.final 3 : 3
+                p (2 : 1)
+              td.team.B
+                p
+                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/320px-Flag_of_Honduras.svg.png')
+                p.country Honduras

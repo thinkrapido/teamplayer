@@ -7725,3 +7725,43 @@ th.hide-for-touch {
 .touch th.show-for-touch {
   display: table-cell !important;
 }
+
+/* line 1, ../../foundation/scss/_styles.scss */
+table.match {
+  width: 100%;
+}
+/* line 3, ../../foundation/scss/_styles.scss */
+table.match td.team {
+  width: 40%;
+}
+/* line 6, ../../foundation/scss/_styles.scss */
+table.match td.score {
+  width: 20%;
+}
+/* line 9, ../../foundation/scss/_styles.scss */
+table.match td {
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 3em;
+}
+/* line 14, ../../foundation/scss/_styles.scss */
+table.match p {
+  font-size: 3em;
+}
+/* line 17, ../../foundation/scss/_styles.scss */
+table.match .final {
+  font-weight: bold;
+  font-size: 5em;
+}
+/* line 21, ../../foundation/scss/_styles.scss */
+table.match .tip input {
+  font-size: 1.5em;
+  height: 2em;
+  width: 1em;
+  display: inline;
+  text-align: center;
+}
+/* line 28, ../../foundation/scss/_styles.scss */
+table.match img.flag.big {
+  width: 200px;
+}

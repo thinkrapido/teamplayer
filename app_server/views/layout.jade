@@ -5,7 +5,28 @@ html
     link(rel='stylesheet', href='/stylesheets/app.css')
     script(src='/javascripts/vendor/modernizr.js')
   body
+
+    nav.top-bar(data-topbar)
+      ul.title-area
+        li.name
+          h1
+            a(href='/') Startseite
+
+      section.top-bar-section
+        ul.right
+          li.active.has-dropdown
+            a(href='/signin') Login
+            ul.dropdown
+              a(href='/logout') Logout
+
+
+
     block content
+
+    .row
+      .large-12.text-center
+        hr
+        small &copy 2014 - Romeo Disca
 
     script(src='/javascripts/vendor/jquery.js')
     script(src='/javascripts/vendor/foundation.min.js')
