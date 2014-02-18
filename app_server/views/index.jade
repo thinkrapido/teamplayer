@@ -1,58 +1,27 @@
 extends layout
 
+include _includes/displayScore
+
 block content
   .row
     .large-12.columns
-      h1 Teamplayer
-        small Tippspiel f&uuml;r die Fu&szlig;ballweltmeisterschaft 2014
+      h1= title
+        small= subtitle
 
   .row
     .large-12.columns
       h3 N&auml;chster Spieltag
-        small 12. Juni
+        small= nextMatches[0].date
 
-  .row
-    .large-12.columns
-      .panel
-        table.match
-          tbody
-            tr
-              td.team.A
-                p
-                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png')
-                p.country Mexiko
-              td.score
-                h6 Tipp abgeben
-                p.tip 
-                  span
-                    input.tip(type='text',placeholder='-',maxlength=1)
-                  span &nbsp;:&nbsp;
-                  span 
-                    input.tip(type='text',placeholder='-',maxlength=1)
-              td.team.B
-                p
-                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/320px-Flag_of_Honduras.svg.png')
-                p.country Honduras
+  each match in nextMatches
+
+    +displayScoreRow(match)
 
   .row
     .large-12.columns
       h3 Letzter Spieltag
         small 11. Juni
 
-  .row
-    .large-12.columns
-      .panel
-        table.match
-          tbody
-            tr
-              td.team.A
-                p
-                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/320px-Flag_of_Mexico.svg.png')
-                p.country Mexiko
-              td.score
-                p.final 3 : 3
-                p (2 : 1)
-              td.team.B
-                p
-                  img.flag.big(src='http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/320px-Flag_of_Honduras.svg.png')
-                p.country Honduras
+  each match in playedMatches
+
+    +displayScoreRow(match)

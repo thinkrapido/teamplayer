@@ -1,0 +1,35 @@
+
+mixin displayScore(match)
+  - var scoreA, scoreB
+  - if (!match.played)
+    - scoreA = match.A.tip || '';
+    - scoreB = match.B.tip || '';
+    h6 Tipp abgeben
+    p.tip 
+      span
+        input.tip(type='text',placeholder='-',maxlength=1,value='#{scoreA}')
+      span &nbsp;:&nbsp;
+      span 
+        input.tip(type='text',placeholder='-',maxlength=1,value='#{scoreB}')
+  - else
+    p.final #{match.A.score} : #{match.B.score}
+    h6 Getippt
+    p #{match.A.tip} : #{match.B.tip}
+
+mixin displayScoreRow(match)
+  .row
+    .large-12.columns
+      .panel
+        table.match
+          tbody
+            tr
+              td.team.A
+                p
+                  img.flag.big(src='#{match.A.flag}')
+                p.country= match.A.country
+              td.score
+                +displayScore(match)
+              td.team.B
+                p
+                  img.flag.big(src='#{match.B.flag}')
+                p.country= match.B.country
