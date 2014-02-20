@@ -6,12 +6,15 @@
 var express = require('express');
 var http = require('http');
 var path = require('path');
+var moment = require('moment');
 
 var app = express();
 
 if (!global.App) {
   global.App = {};
 }
+global.App.dateMargin = moment('2014/06/15 12:00');
+console.log('date margin:', global.App.dateMargin.lang('de').format('LLL'));
 
 // all environments
 app.set('port', process.env.PORT || 3000);

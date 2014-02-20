@@ -2,6 +2,8 @@
 var fs = require('fs');
 var path = require('path');
 
+var mapData = require('./helper/mapData');
+
 var wikiFile = path.join(__dirname, '../resources/wiki.js');
 
 var loadFile = function() {
@@ -14,7 +16,13 @@ var loadFile = function() {
     data = data.replace(/(<\/?t[hdr].*)/g, '"$1" + ');
     data = data.replace(/(<\/table>')/g, '"</table>"');
 
-    eval ('global.App.wiki = ' + data + ';');
+    eval('data = ' + data + ';');
+  
+    global.App.teams = mapData.teams(data);
+
+    global.App.wiki = 
+    global.App.matches = mapData.matches(data);
+
   });
 }
 

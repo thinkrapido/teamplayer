@@ -5,6 +5,8 @@
     {
     
       gruppe: 'Gruppe_A',
+      sieger: 'Brasilien',
+      zweiter: 'Kroatien',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -13,13 +15,13 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 1.</td>
-<td style="text-align:left;"><span style="display:none;">Brasilien</span><a href="/wiki/Brasilianische_Fu%C3%9Fballnationalmannschaft" title="Brasilien"><img alt="Brasilien" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png 2x"/></a> <a href="/wiki/Brasilianische_Fu%C3%9Fballnationalmannschaft" title="Brasilianische Fu&#xDF;ballnationalmannschaft">Brasilien</a></td>
+<td style="text-align:left;"><span style="display:none;">Brasilien</span><a href="/wiki/Brasilianische_Fu%C3%9Fballnationalmannschaft" title="Brasilien"><img alt="Brasilien" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/20px-Flag_of_Brazil.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png 2x"/></a> <a href="/wiki/Brasilianische_Fu%C3%9Fballnationalmannschaft" title="Brasilianische Fußballnationalmannschaft">Brasilien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -30,7 +32,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Kroatien</span><a href="/wiki/Kroatische_Fu%C3%9Fballnationalmannschaft" title="Kroatien"><img alt="Kroatien" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/30px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png 2x"/></a> <a href="/wiki/Kroatische_Fu%C3%9Fballnationalmannschaft" title="Kroatische Fu&#xDF;ballnationalmannschaft">Kroatien</a></td>
+<td style="text-align:left;"><span style="display:none;">Kroatien</span><a href="/wiki/Kroatische_Fu%C3%9Fballnationalmannschaft" title="Kroatien"><img alt="Kroatien" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/20px-Flag_of_Croatia.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/30px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png 2x"/></a> <a href="/wiki/Kroatische_Fu%C3%9Fballnationalmannschaft" title="Kroatische Fußballnationalmannschaft">Kroatien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -41,7 +43,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">Mexiko</span><a href="/wiki/Datei:Flag_of_Mexico.svg" class="image" title="Mexiko"><img alt="Mexiko" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/18px-Flag_of_Mexico.svg.png" width="18" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/27px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/36px-Flag_of_Mexico.svg.png 2x"/></a> <a href="/wiki/Mexikanische_Fu%C3%9Fballnationalmannschaft" title="Mexikanische Fu&#xDF;ballnationalmannschaft">Mexiko</a></td>
+<td style="text-align:left;"><span style="display:none;">Mexiko</span><a href="/wiki/Datei:Flag_of_Mexico.svg" class="image" title="Mexiko"><img alt="Mexiko" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/18px-Flag_of_Mexico.svg.png" width="18" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/27px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/36px-Flag_of_Mexico.svg.png 2x"/></a> <a href="/wiki/Mexikanische_Fu%C3%9Fballnationalmannschaft" title="Mexikanische Fußballnationalmannschaft">Mexiko</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -52,7 +54,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Kamerun</span><a href="/wiki/Datei:Flag_of_Cameroon.svg" class="image" title="Kamerun"><img alt="Kamerun" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/18px-Flag_of_Cameroon.svg.png" width="18" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/27px-Flag_of_Cameroon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/36px-Flag_of_Cameroon.svg.png 2x"/></a> <a href="/wiki/Kamerunische_Fu%C3%9Fballnationalmannschaft" title="Kamerunische Fu&#xDF;ballnationalmannschaft">Kamerun</a></td>
+<td style="text-align:left;"><span style="display:none;">Kamerun</span><a href="/wiki/Datei:Flag_of_Cameroon.svg" class="image" title="Kamerun"><img alt="Kamerun" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/18px-Flag_of_Cameroon.svg.png" width="18" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/27px-Flag_of_Cameroon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/36px-Flag_of_Cameroon.svg.png 2x"/></a> <a href="/wiki/Kamerunische_Fu%C3%9Fballnationalmannschaft" title="Kamerunische Fußballnationalmannschaft">Kamerun</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -101,6 +103,8 @@
     {
     
       gruppe: 'Gruppe_B',
+      sieger: 'Spanien',
+      zweiter: 'Niederlande',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -109,13 +113,13 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 1.</td>
-<td style="text-align:left;"><span style="display:none;">Spanien</span><a href="/wiki/Spanische_Fu%C3%9Fballnationalmannschaft" title="Spanien"><img alt="Spanien" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/30px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png 2x"/></a> <a href="/wiki/Spanische_Fu%C3%9Fballnationalmannschaft" title="Spanische Fu&#xDF;ballnationalmannschaft">Spanien</a></td>
+<td style="text-align:left;"><span style="display:none;">Spanien</span><a href="/wiki/Spanische_Fu%C3%9Fballnationalmannschaft" title="Spanien"><img alt="Spanien" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/30px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png 2x"/></a> <a href="/wiki/Spanische_Fu%C3%9Fballnationalmannschaft" title="Spanische Fußballnationalmannschaft">Spanien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -126,7 +130,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Niederlande</span><a href="/wiki/Datei:Flag_of_the_Netherlands.svg" class="image" title="Niederlande"><img alt="Niederlande" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x"/></a> <a href="/wiki/Niederl%C3%A4ndische_Fu%C3%9Fballnationalmannschaft" title="Niederl&#xE4;ndische Fu&#xDF;ballnationalmannschaft">Niederlande</a></td>
+<td style="text-align:left;"><span style="display:none;">Niederlande</span><a href="/wiki/Datei:Flag_of_the_Netherlands.svg" class="image" title="Niederlande"><img alt="Niederlande" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x"/></a> <a href="/wiki/Niederl%C3%A4ndische_Fu%C3%9Fballnationalmannschaft" title="Niederländische Fußballnationalmannschaft">Niederlande</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -137,7 +141,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">Chile</span><a href="/wiki/Datei:Flag_of_Chile.svg" class="image" title="Chile"><img alt="Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/18px-Flag_of_Chile.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/27px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/36px-Flag_of_Chile.svg.png 2x"/></a> <a href="/wiki/Chilenische_Fu%C3%9Fballnationalmannschaft" title="Chilenische Fu&#xDF;ballnationalmannschaft">Chile</a></td>
+<td style="text-align:left;"><span style="display:none;">Chile</span><a href="/wiki/Datei:Flag_of_Chile.svg" class="image" title="Chile"><img alt="Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/18px-Flag_of_Chile.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/27px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/36px-Flag_of_Chile.svg.png 2x"/></a> <a href="/wiki/Chilenische_Fu%C3%9Fballnationalmannschaft" title="Chilenische Fußballnationalmannschaft">Chile</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -148,7 +152,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Australien</span><a href="/wiki/Australische_Fu%C3%9Fballnationalmannschaft" title="Australien"><img alt="Australien" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/20px-Flag_of_Australia.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/30px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/40px-Flag_of_Australia.svg.png 2x"/></a> <a href="/wiki/Australische_Fu%C3%9Fballnationalmannschaft" title="Australische Fu&#xDF;ballnationalmannschaft">Australien</a></td>
+<td style="text-align:left;"><span style="display:none;">Australien</span><a href="/wiki/Australische_Fu%C3%9Fballnationalmannschaft" title="Australien"><img alt="Australien" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/20px-Flag_of_Australia.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/30px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/40px-Flag_of_Australia.svg.png 2x"/></a> <a href="/wiki/Australische_Fu%C3%9Fballnationalmannschaft" title="Australische Fußballnationalmannschaft">Australien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -197,6 +201,8 @@
     {
     
       gruppe: 'Gruppe_C',
+      sieger: 'Kolumbien',
+      zweiter: 'Griechenland',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -205,13 +211,13 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 1.</td>
-<td style="text-align:left;"><span style="display:none;">Kolumbien</span><a href="/wiki/Datei:Flag_of_Colombia.svg" class="image" title="Kolumbien"><img alt="Kolumbien" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/30px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 2x"/></a> <a href="/wiki/Kolumbianische_Fu%C3%9Fballnationalmannschaft" title="Kolumbianische Fu&#xDF;ballnationalmannschaft">Kolumbien</a></td>
+<td style="text-align:left;"><span style="display:none;">Kolumbien</span><a href="/wiki/Datei:Flag_of_Colombia.svg" class="image" title="Kolumbien"><img alt="Kolumbien" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/30px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 2x"/></a> <a href="/wiki/Kolumbianische_Fu%C3%9Fballnationalmannschaft" title="Kolumbianische Fußballnationalmannschaft">Kolumbien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -222,7 +228,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Griechenland</span><a href="/wiki/Datei:Flag_of_Greece.svg" class="image" title="Griechenland"><img alt="Griechenland" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/40px-Flag_of_Greece.svg.png 2x"/></a> <a href="/wiki/Griechische_Fu%C3%9Fballnationalmannschaft" title="Griechische Fu&#xDF;ballnationalmannschaft">Griechenland</a></td>
+<td style="text-align:left;"><span style="display:none;">Griechenland</span><a href="/wiki/Datei:Flag_of_Greece.svg" class="image" title="Griechenland"><img alt="Griechenland" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/40px-Flag_of_Greece.svg.png 2x"/></a> <a href="/wiki/Griechische_Fu%C3%9Fballnationalmannschaft" title="Griechische Fußballnationalmannschaft">Griechenland</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -233,7 +239,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">Elfenbeinküste</span><a href="/wiki/Ivorische_Fu%C3%9Fballnationalmannschaft" title="Elfenbeink&#xFC;ste"><img alt="Elfenbeink&#xFC;ste" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/18px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/27px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/36px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 2x"/></a> <a href="/wiki/Ivorische_Fu%C3%9Fballnationalmannschaft" title="Ivorische Fu&#xDF;ballnationalmannschaft">Elfenbeinküste</a></td>
+<td style="text-align:left;"><span style="display:none;">Elfenbeinküste</span><a href="/wiki/Ivorische_Fu%C3%9Fballnationalmannschaft" title="Elfenbeinküste"><img alt="Elfenbeinküste" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/18px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/27px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/36px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 2x"/></a> <a href="/wiki/Ivorische_Fu%C3%9Fballnationalmannschaft" title="Ivorische Fußballnationalmannschaft">Elfenbeinküste</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -244,7 +250,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Japan</span><a href="/wiki/Japanische_Fu%C3%9Fballnationalmannschaft" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/18px-Flag_of_Japan.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/27px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/36px-Flag_of_Japan.svg.png 2x"/></a> <a href="/wiki/Japanische_Fu%C3%9Fballnationalmannschaft" title="Japanische Fu&#xDF;ballnationalmannschaft">Japan</a></td>
+<td style="text-align:left;"><span style="display:none;">Japan</span><a href="/wiki/Japanische_Fu%C3%9Fballnationalmannschaft" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/18px-Flag_of_Japan.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/27px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/36px-Flag_of_Japan.svg.png 2x"/></a> <a href="/wiki/Japanische_Fu%C3%9Fballnationalmannschaft" title="Japanische Fußballnationalmannschaft">Japan</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -293,6 +299,8 @@
     {
     
       gruppe: 'Gruppe_D',
+      sieger: 'Uruguay',
+      zweiter: 'Costa Rica',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -301,13 +309,13 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 1.</td>
-<td style="text-align:left;"><span style="display:none;">Uruguay</span><a href="/wiki/Datei:Flag_of_Uruguay.svg" class="image" title="Uruguay"><img alt="Uruguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/18px-Flag_of_Uruguay.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/27px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/36px-Flag_of_Uruguay.svg.png 2x"/></a> <a href="/wiki/Uruguayische_Fu%C3%9Fballnationalmannschaft" title="Uruguayische Fu&#xDF;ballnationalmannschaft">Uruguay</a></td>
+<td style="text-align:left;"><span style="display:none;">Uruguay</span><a href="/wiki/Datei:Flag_of_Uruguay.svg" class="image" title="Uruguay"><img alt="Uruguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/18px-Flag_of_Uruguay.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/27px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/36px-Flag_of_Uruguay.svg.png 2x"/></a> <a href="/wiki/Uruguayische_Fu%C3%9Fballnationalmannschaft" title="Uruguayische Fußballnationalmannschaft">Uruguay</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -318,7 +326,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Costa Rica</span><a href="/wiki/Datei:Flag_of_Costa_Rica.svg" class="image" title="Costa Rica"><img alt="Costa Rica" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/20px-Flag_of_Costa_Rica.svg.png" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/30px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png 2x"/></a> <a href="/wiki/Costa-ricanische_Fu%C3%9Fballnationalmannschaft" title="Costa-ricanische Fu&#xDF;ballnationalmannschaft">Costa Rica</a></td>
+<td style="text-align:left;"><span style="display:none;">Costa Rica</span><a href="/wiki/Datei:Flag_of_Costa_Rica.svg" class="image" title="Costa Rica"><img alt="Costa Rica" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/20px-Flag_of_Costa_Rica.svg.png" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/30px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png 2x"/></a> <a href="/wiki/Costa-ricanische_Fu%C3%9Fballnationalmannschaft" title="Costa-ricanische Fußballnationalmannschaft">Costa Rica</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -329,7 +337,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">England</span><a href="/wiki/Datei:Flag_of_England.svg" class="image" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/18px-Flag_of_England.svg.png" width="18" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/27px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/36px-Flag_of_England.svg.png 2x"/></a> <a href="/wiki/Englische_Fu%C3%9Fballnationalmannschaft" title="Englische Fu&#xDF;ballnationalmannschaft">England</a></td>
+<td style="text-align:left;"><span style="display:none;">England</span><a href="/wiki/Datei:Flag_of_England.svg" class="image" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/18px-Flag_of_England.svg.png" width="18" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/27px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/36px-Flag_of_England.svg.png 2x"/></a> <a href="/wiki/Englische_Fu%C3%9Fballnationalmannschaft" title="Englische Fußballnationalmannschaft">England</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -340,7 +348,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Italien</span><a href="/wiki/Italienische_Fu%C3%9Fballnationalmannschaft" title="Italien"><img alt="Italien" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/18px-Flag_of_Italy.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/27px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/36px-Flag_of_Italy.svg.png 2x"/></a> <a href="/wiki/Italienische_Fu%C3%9Fballnationalmannschaft" title="Italienische Fu&#xDF;ballnationalmannschaft">Italien</a></td>
+<td style="text-align:left;"><span style="display:none;">Italien</span><a href="/wiki/Italienische_Fu%C3%9Fballnationalmannschaft" title="Italien"><img alt="Italien" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/18px-Flag_of_Italy.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/27px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/36px-Flag_of_Italy.svg.png 2x"/></a> <a href="/wiki/Italienische_Fu%C3%9Fballnationalmannschaft" title="Italienische Fußballnationalmannschaft">Italien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -389,6 +397,8 @@
     {
     
       gruppe: 'Gruppe_E',
+      sieger: 'Schweiz',
+      zweiter: 'Ecuador',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -397,7 +407,7 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
@@ -414,7 +424,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Ecuador</span><a href="/wiki/Datei:Flag_of_Ecuador.svg" class="image" title="Ecuador"><img alt="Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x"/></a> <a href="/wiki/Ecuadorianische_Fu%C3%9Fballnationalmannschaft" title="Ecuadorianische Fu&#xDF;ballnationalmannschaft">Ecuador</a></td>
+<td style="text-align:left;"><span style="display:none;">Ecuador</span><a href="/wiki/Datei:Flag_of_Ecuador.svg" class="image" title="Ecuador"><img alt="Ecuador" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/20px-Flag_of_Ecuador.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/30px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png 2x"/></a> <a href="/wiki/Ecuadorianische_Fu%C3%9Fballnationalmannschaft" title="Ecuadorianische Fußballnationalmannschaft">Ecuador</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -425,7 +435,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">Frankreich</span><a href="/wiki/Franz%C3%B6sische_Fu%C3%9Fballnationalmannschaft" title="Frankreich"><img alt="Frankreich" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/18px-Flag_of_France.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/27px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/36px-Flag_of_France.svg.png 2x"/></a> <a href="/wiki/Franz%C3%B6sische_Fu%C3%9Fballnationalmannschaft" title="Franz&#xF6;sische Fu&#xDF;ballnationalmannschaft">Frankreich</a></td>
+<td style="text-align:left;"><span style="display:none;">Frankreich</span><a href="/wiki/Franz%C3%B6sische_Fu%C3%9Fballnationalmannschaft" title="Frankreich"><img alt="Frankreich" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/18px-Flag_of_France.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/27px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/36px-Flag_of_France.svg.png 2x"/></a> <a href="/wiki/Franz%C3%B6sische_Fu%C3%9Fballnationalmannschaft" title="Französische Fußballnationalmannschaft">Frankreich</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -436,7 +446,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Honduras</span><a href="/wiki/Datei:Flag_of_Honduras.svg" class="image" title="Honduras"><img alt="Honduras" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/20px-Flag_of_Honduras.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/30px-Flag_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/40px-Flag_of_Honduras.svg.png 2x"/></a> <a href="/wiki/Honduranische_Fu%C3%9Fballnationalmannschaft" title="Honduranische Fu&#xDF;ballnationalmannschaft">Honduras</a></td>
+<td style="text-align:left;"><span style="display:none;">Honduras</span><a href="/wiki/Datei:Flag_of_Honduras.svg" class="image" title="Honduras"><img alt="Honduras" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/20px-Flag_of_Honduras.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/30px-Flag_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/40px-Flag_of_Honduras.svg.png 2x"/></a> <a href="/wiki/Honduranische_Fu%C3%9Fballnationalmannschaft" title="Honduranische Fußballnationalmannschaft">Honduras</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -485,6 +495,8 @@
     {
     
       gruppe: 'Gruppe_F',
+      sieger: 'Argentinien',
+      zweiter: 'Bosnien und Herzegowina',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -493,13 +505,13 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 1.</td>
-<td style="text-align:left;"><span style="display:none;">Argentinien</span><a href="/wiki/Argentinische_Fu%C3%9Fballnationalmannschaft" title="Argentinien"><img alt="Argentinien" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/18px-Flag_of_Argentina.svg.png" width="18" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/27px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/36px-Flag_of_Argentina.svg.png 2x"/></a> <a href="/wiki/Argentinische_Fu%C3%9Fballnationalmannschaft" title="Argentinische Fu&#xDF;ballnationalmannschaft">Argentinien</a></td>
+<td style="text-align:left;"><span style="display:none;">Argentinien</span><a href="/wiki/Argentinische_Fu%C3%9Fballnationalmannschaft" title="Argentinien"><img alt="Argentinien" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/18px-Flag_of_Argentina.svg.png" width="18" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/27px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/36px-Flag_of_Argentina.svg.png 2x"/></a> <a href="/wiki/Argentinische_Fu%C3%9Fballnationalmannschaft" title="Argentinische Fußballnationalmannschaft">Argentinien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -510,7 +522,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Bosnien und Herzegowina</span><a href="/wiki/Bosnisch-herzegowinische_Fu%C3%9Fballnationalmannschaft" title="Bosnien und Herzegowina"><img alt="Bosnien und Herzegowina" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/20px-Flag_of_Bosnia_and_Herzegovina.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/30px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x"/></a> <a href="/wiki/Bosnisch-herzegowinische_Fu%C3%9Fballnationalmannschaft" title="Bosnisch-herzegowinische Fu&#xDF;ballnationalmannschaft">Bosnien und Herzegowina</a></td>
+<td style="text-align:left;"><span style="display:none;">Bosnien und Herzegowina</span><a href="/wiki/Bosnisch-herzegowinische_Fu%C3%9Fballnationalmannschaft" title="Bosnien und Herzegowina"><img alt="Bosnien und Herzegowina" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/20px-Flag_of_Bosnia_and_Herzegovina.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/30px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/40px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x"/></a> <a href="/wiki/Bosnisch-herzegowinische_Fu%C3%9Fballnationalmannschaft" title="Bosnisch-herzegowinische Fußballnationalmannschaft">Bosnien und Herzegowina</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -521,7 +533,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">Iran</span><a href="/wiki/Datei:Flag_of_Iran.svg" class="image" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/20px-Flag_of_Iran.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/30px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/40px-Flag_of_Iran.svg.png 2x"/></a> <a href="/wiki/Iranische_Fu%C3%9Fballnationalmannschaft" title="Iranische Fu&#xDF;ballnationalmannschaft">Iran</a></td>
+<td style="text-align:left;"><span style="display:none;">Iran</span><a href="/wiki/Datei:Flag_of_Iran.svg" class="image" title="Iran"><img alt="Iran" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/20px-Flag_of_Iran.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/30px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/40px-Flag_of_Iran.svg.png 2x"/></a> <a href="/wiki/Iranische_Fu%C3%9Fballnationalmannschaft" title="Iranische Fußballnationalmannschaft">Iran</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -532,7 +544,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Nigeria</span><a href="/wiki/Datei:Flag_of_Nigeria.svg" class="image" title="Nigeria"><img alt="Nigeria" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/20px-Flag_of_Nigeria.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/30px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/40px-Flag_of_Nigeria.svg.png 2x"/></a> <a href="/wiki/Nigerianische_Fu%C3%9Fballnationalmannschaft" title="Nigerianische Fu&#xDF;ballnationalmannschaft">Nigeria</a></td>
+<td style="text-align:left;"><span style="display:none;">Nigeria</span><a href="/wiki/Datei:Flag_of_Nigeria.svg" class="image" title="Nigeria"><img alt="Nigeria" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/20px-Flag_of_Nigeria.svg.png" width="20" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/30px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/40px-Flag_of_Nigeria.svg.png 2x"/></a> <a href="/wiki/Nigerianische_Fu%C3%9Fballnationalmannschaft" title="Nigerianische Fußballnationalmannschaft">Nigeria</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -581,6 +593,8 @@
     {
     
       gruppe: 'Gruppe_G',
+      sieger: 'Deutschland',
+      zweiter: 'Portugal',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -589,13 +603,13 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 1.</td>
-<td style="text-align:left;"><span style="display:none;">Deutschland</span><a href="/wiki/Deutsche_Fu%C3%9Fballnationalmannschaft" title="Deutschland"><img alt="Deutschland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png 2x"/></a> <a href="/wiki/Deutsche_Fu%C3%9Fballnationalmannschaft" title="Deutsche Fu&#xDF;ballnationalmannschaft">Deutschland</a></td>
+<td style="text-align:left;"><span style="display:none;">Deutschland</span><a href="/wiki/Deutsche_Fu%C3%9Fballnationalmannschaft" title="Deutschland"><img alt="Deutschland" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" width="20" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png 2x"/></a> <a href="/wiki/Deutsche_Fu%C3%9Fballnationalmannschaft" title="Deutsche Fußballnationalmannschaft">Deutschland</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -606,7 +620,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Portugal</span><a href="/wiki/Portugiesische_Fu%C3%9Fballnationalmannschaft" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/30px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/40px-Flag_of_Portugal.svg.png 2x"/></a> <a href="/wiki/Portugiesische_Fu%C3%9Fballnationalmannschaft" title="Portugiesische Fu&#xDF;ballnationalmannschaft">Portugal</a></td>
+<td style="text-align:left;"><span style="display:none;">Portugal</span><a href="/wiki/Portugiesische_Fu%C3%9Fballnationalmannschaft" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/30px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/40px-Flag_of_Portugal.svg.png 2x"/></a> <a href="/wiki/Portugiesische_Fu%C3%9Fballnationalmannschaft" title="Portugiesische Fußballnationalmannschaft">Portugal</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -617,7 +631,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">Ghana</span><a href="/wiki/Datei:Flag_of_Ghana.svg" class="image" title="Ghana"><img alt="Ghana" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/20px-Flag_of_Ghana.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/40px-Flag_of_Ghana.svg.png 2x"/></a> <a href="/wiki/Ghanaische_Fu%C3%9Fballnationalmannschaft" title="Ghanaische Fu&#xDF;ballnationalmannschaft">Ghana</a></td>
+<td style="text-align:left;"><span style="display:none;">Ghana</span><a href="/wiki/Datei:Flag_of_Ghana.svg" class="image" title="Ghana"><img alt="Ghana" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/20px-Flag_of_Ghana.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/30px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/40px-Flag_of_Ghana.svg.png 2x"/></a> <a href="/wiki/Ghanaische_Fu%C3%9Fballnationalmannschaft" title="Ghanaische Fußballnationalmannschaft">Ghana</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -628,7 +642,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Vereinigte Staaten</span><a href="/wiki/Fu%C3%9Fballnationalmannschaft_der_Vereinigten_Staaten" title="Vereinigte Staaten"><img alt="Vereinigte Staaten" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/20px-Flag_of_the_United_States_%28Pantone%29.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/30px-Flag_of_the_United_States_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/40px-Flag_of_the_United_States_%28Pantone%29.svg.png 2x"/></a> <a href="/wiki/Fu%C3%9Fballnationalmannschaft_der_Vereinigten_Staaten" title="Fu&#xDF;ballnationalmannschaft der Vereinigten Staaten">USA</a></td>
+<td style="text-align:left;"><span style="display:none;">Vereinigte Staaten</span><a href="/wiki/Fu%C3%9Fballnationalmannschaft_der_Vereinigten_Staaten" title="Vereinigte Staaten"><img alt="Vereinigte Staaten" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/20px-Flag_of_the_United_States_%28Pantone%29.svg.png" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/30px-Flag_of_the_United_States_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_the_United_States_%28Pantone%29.svg/40px-Flag_of_the_United_States_%28Pantone%29.svg.png 2x"/></a> <a href="/wiki/Fu%C3%9Fballnationalmannschaft_der_Vereinigten_Staaten" title="Fußballnationalmannschaft der Vereinigten Staaten">USA</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -677,6 +691,8 @@
     {
     
       gruppe: 'Gruppe_H',
+      sieger: 'Belgien',
+      zweiter: 'Algerien',
       tabelle: '<table class="wikitable float-right" style="text-align:center; white-space:nowrap;">
 <tr class="hintergrundfarbe5">
 <th style="width:4ex"><span class="explain" title="Platzierung">Pl.</span></th>
@@ -685,13 +701,13 @@
 <th style="width:3ex"><span class="explain" title="Siege">S</span></th>
 <th style="width:3ex"><span class="explain" title="Unentschieden">U</span></th>
 <th style="width:3ex"><span class="explain" title="Niederlagen">N</span></th>
-<th style="width:5ex"><span class="explain" title="Torverh&#xE4;ltnis">Tore</span></th>
+<th style="width:5ex"><span class="explain" title="Torverhältnis">Tore</span></th>
 <th style="width:5ex"><span class="explain" title="Tordifferenz">Diff.</span></th>
 <th style="width:5ex">Punkte</th>
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 1.</td>
-<td style="text-align:left;"><span style="display:none;">Belgien</span><a href="/wiki/Belgische_Fu%C3%9Fballnationalmannschaft" title="Belgien"><img alt="Belgien" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/30px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/40px-Flag_of_Belgium_%28civil%29.svg.png 2x"/></a> <a href="/wiki/Belgische_Fu%C3%9Fballnationalmannschaft" title="Belgische Fu&#xDF;ballnationalmannschaft">Belgien</a></td>
+<td style="text-align:left;"><span style="display:none;">Belgien</span><a href="/wiki/Belgische_Fu%C3%9Fballnationalmannschaft" title="Belgien"><img alt="Belgien" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/30px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/40px-Flag_of_Belgium_%28civil%29.svg.png 2x"/></a> <a href="/wiki/Belgische_Fu%C3%9Fballnationalmannschaft" title="Belgische Fußballnationalmannschaft">Belgien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -702,7 +718,7 @@
 </tr>
 <tr style="background-color:#E7FAEC;">
 <td style="text-align:center;"> 2.</td>
-<td style="text-align:left;"><span style="display:none;">Algerien</span><a href="/wiki/Algerische_Fu%C3%9Fballnationalmannschaft" title="Algerien"><img alt="Algerien" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/18px-Flag_of_Algeria.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/27px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/36px-Flag_of_Algeria.svg.png 2x"/></a> <a href="/wiki/Algerische_Fu%C3%9Fballnationalmannschaft" title="Algerische Fu&#xDF;ballnationalmannschaft">Algerien</a></td>
+<td style="text-align:left;"><span style="display:none;">Algerien</span><a href="/wiki/Algerische_Fu%C3%9Fballnationalmannschaft" title="Algerien"><img alt="Algerien" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/18px-Flag_of_Algeria.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/27px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/36px-Flag_of_Algeria.svg.png 2x"/></a> <a href="/wiki/Algerische_Fu%C3%9Fballnationalmannschaft" title="Algerische Fußballnationalmannschaft">Algerien</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -713,7 +729,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 3.</td>
-<td style="text-align:left;"><span style="display:none;">Russland</span><a href="/wiki/Russische_Fu%C3%9Fballnationalmannschaft" title="Russland"><img alt="Russland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/18px-Flag_of_Russia.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/27px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/36px-Flag_of_Russia.svg.png 2x"/></a> <a href="/wiki/Russische_Fu%C3%9Fballnationalmannschaft" title="Russische Fu&#xDF;ballnationalmannschaft">Russland</a></td>
+<td style="text-align:left;"><span style="display:none;">Russland</span><a href="/wiki/Russische_Fu%C3%9Fballnationalmannschaft" title="Russland"><img alt="Russland" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/18px-Flag_of_Russia.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/27px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/36px-Flag_of_Russia.svg.png 2x"/></a> <a href="/wiki/Russische_Fu%C3%9Fballnationalmannschaft" title="Russische Fußballnationalmannschaft">Russland</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -724,7 +740,7 @@
 </tr>
 <tr style="background-color:#ffffff;">
 <td style="text-align:center;"> 4.</td>
-<td style="text-align:left;"><span style="display:none;">Korea Sud</span><a href="/wiki/Datei:Flag_of_South_Korea.svg" class="image" title="S&#xFC;dkorea"><img alt="S&#xFC;dkorea" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/18px-Flag_of_South_Korea.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/27px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/36px-Flag_of_South_Korea.svg.png 2x"/></a> <a href="/wiki/S%C3%BCdkoreanische_Fu%C3%9Fballnationalmannschaft" title="S&#xFC;dkoreanische Fu&#xDF;ballnationalmannschaft">Südkorea</a></td>
+<td style="text-align:left;"><span style="display:none;">Korea Sud</span><a href="/wiki/Datei:Flag_of_South_Korea.svg" class="image" title="Südkorea"><img alt="Südkorea" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/18px-Flag_of_South_Korea.svg.png" width="18" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/27px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/36px-Flag_of_South_Korea.svg.png 2x"/></a> <a href="/wiki/S%C3%BCdkoreanische_Fu%C3%9Fballnationalmannschaft" title="Südkoreanische Fußballnationalmannschaft">Südkorea</a></td>
 <td style="text-align:right; padding-right:1em;">0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
 <td style="text-align:right; padding-right:1em;"> 0</td>
@@ -900,7 +916,7 @@
   
   	]
   },
-  manschaften: [
+  mannschaften: [
 {
 	land: 'Belgien',
 	flagge: '//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/20px-Flag_of_Belgium_%28civil%29.svg.png'
