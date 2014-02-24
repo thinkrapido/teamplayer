@@ -8,20 +8,22 @@ block content
       h1= title
         small= subtitle
 
-  .row
-    .large-12.columns
-      h3 N&auml;chster Spieltag
-        small= nextMatches[0].date
+  -if (nextMatches[0])
+    .row
+      .large-12.columns
+        h3 N&auml;chster Spieltag
+          small= (nextMatches[0]) ? nextMatches[0].date : ''
 
-  each match in nextMatches
+    each match in nextMatches
 
-    +displayScoreRow(match)
+      +displayScoreRow(match)
 
-  .row
-    .large-12.columns
-      h3 Letzter Spieltag
-        small 11. Juni
+  -if (playedMatches[0])
+    .row
+      .large-12.columns
+        h3 Letzter Spieltag
+          small= (playedMatches[0]) ? playedMatches[0].date : ''
 
-  each match in playedMatches
+    each match in playedMatches
 
-    +displayScoreRow(match)
+      +displayScoreRow(match)

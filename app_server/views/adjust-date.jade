@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  .row
+    .alert-box= dateMargin
+
+  .row
+    for col in dates
+      .columns.small-4
+        for date in col
+          h4
+            a(href='/maintenance/adjust-date/#{date.link}')= date.text

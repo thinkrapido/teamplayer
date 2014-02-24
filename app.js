@@ -13,7 +13,7 @@ var app = express();
 if (!global.App) {
   global.App = {};
 }
-global.App.dateMargin = moment('2014/06/15 12:00');
+global.App.dateMargin = moment().hour(12).minute(0).second(0);
 console.log('date margin:', global.App.dateMargin.lang('de').format('LLL'));
 
 // all environments
@@ -31,6 +31,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // development only
 if ('development' == app.get('env')) {
   app.use(express.errorHandler());
+  app.locals.pretty = true;
 }
 
 require('./routes')(app);

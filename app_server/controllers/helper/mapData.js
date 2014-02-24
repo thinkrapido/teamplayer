@@ -4,12 +4,19 @@ var moment = require('moment'),
     _ = require('underscore');
 
 var parseRawDate = function(string) {
-  var regex = /, (\d+)\. (\w+) (\d+), (\d+):(\d+)[^(]+\((\d+):(\d+)/; 
-    
-  var result = regex.exec(string); 
-  var dateString = util.format('%s.%s.%s %s:%s', result[1], result[2], result[3], result[6], result[7]); 
-    
-  return moment(dateString) 
+  var regex = /,\s(\d+)\.\s(\w+)\s(\d+),\s(\d+):(\d+)[^(]+\((\d+):(\d+)/,
+      result = regex.exec(string),
+      date, m;
+  if (result[6] == '24') {
+    date = util.format('%s.%s.%s %s:%s', result[1], result[2], result[3], '00', result[7]);
+    m = moment(date);
+    m.add('d', 1)
+  }
+  else {
+    date = util.format('%s.%s.%s %s:%s', result[1], result[2], result[3], result[6], result[7]);
+    m = moment(date);
+  }  
+  return m;
 }
 
 var parseScore = function(string) {
@@ -28,7 +35,10 @@ var getFlag = function(team) {
   out = _.filter(out, function(item) {
     return item.team === team;
   });
-  return out;
+  if (out.length === 0) {
+    return '';
+  }
+  return out[0].flag;
 }
 
 var createId = function(date, teamA, teamB) {
@@ -91,4 +101,15 @@ module.exports.matches = function(data) {
   matches = _.sortBy(matches, 'id');
 
   return matches;
+}
+
+module.exports.adjustDate = function(date) {
+  App.dateMargin = date.hour(12).minute(0).second(0);
+
+  global.App.wiki = 
+  global.App.matches = _.map(global.App.matches, function(item) {
+    item.played = item.date.isBefore(global.App.dateMargin);
+    return item;
+  });
+  console.dir(App.dateMargin);
 }

@@ -14,7 +14,8 @@ var loadFile = function() {
     data = data.replace(/"/g, '\\"');
     data = data.replace(/'(<table.*)/g, '"$1" + ');
     data = data.replace(/(<\/?t[hdr].*)/g, '"$1" + ');
-    data = data.replace(/(<\/table>')/g, '"</table>"');
+    data = data.replace(/<\/table>'/g, '"</table>"');
+    data = data.replace(/Costa[^_]Rica/g, 'Costa Rica');
 
     eval('data = ' + data + ';');
   
