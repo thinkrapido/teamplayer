@@ -21,7 +21,6 @@ var loadFile = function() {
   
     global.App.teams = mapData.teams(data);
 
-    global.App.wiki = 
     global.App.matches = mapData.matches(data);
 
   });
@@ -39,6 +38,6 @@ fs.watchFile(wikiFile, function(curr, prev) {
 
 module.exports.wiki = function(req, res) {
   res.writeHead(200, {'Content-Type': 'application/json', 'charset': 'utf-8'});
-  res.write(JSON.stringify(global.App.wiki || {}));
+  res.write(JSON.stringify(global.App.matches || {}, null, 4));
   res.end();
 }
