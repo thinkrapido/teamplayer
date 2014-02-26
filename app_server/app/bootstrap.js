@@ -1,7 +1,10 @@
 
 var fs = require('fs'),
     path = require('path'),
-    mapData = require('./mapData');
+    cronJob = require('cron').CronJob,
+    moment = require('moment'),
+    mapData = require('./mapData'),
+    date = require('./date');
 
 var loadFile = function() {
   fs.readFile(Util.wikiFile, function(err, data) {
@@ -23,9 +26,17 @@ var loadFile = function() {
   });
 }
 
+var startCronJob = function() {
+  new cronJob('00 06 * * *', function() {
+    console.log('doing cron', moment().format('LLL'));
+    date.changeDate();
+  }, null, true, 'Europe/Berlin');
+}
+
 if (App.bootstraped == false) {
-  require('./date').changeDate();
+  date.changeDate();
   loadFile();
+  startCronJob();
   App.bootstraped = true;
 }
 
