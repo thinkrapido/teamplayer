@@ -12,9 +12,16 @@ var app = express();
 
 if (!global.App) {
   global.App = {};
+  App.bootstraped = false;
 }
-global.App.dateMargin = moment().hour(12).minute(0).second(0);
-console.log('date margin:', global.App.dateMargin.lang('de').format('LLL'));
+if (!global.Util) {
+  global.Util = {};
+  Util.dataFolder = path.join(__dirname, 'data');
+  Util.wikiFile = path.join(Util.dataFolder, 'wiki.js');
+  Util.wikiConverterUrl = 'http://thinkrapido.com/wiki.php';
+}
+
+require('./app_server/app/bootstrap');
 
 // all environments
 app.set('port', process.env.PORT || 3000);

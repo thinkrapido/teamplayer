@@ -1,11 +1,7 @@
 
 var moment = require('moment'),
     util = require('util'),
-    path = require('path'),
-    fs = require('fs'),
     _ = require('underscore');
-
-var dataPath = '../../../data';
 
 var parseRawDate = function(string) {
   var regex = /,\s(\d+)\.\s(\w+)\s(\d+),\s(\d+):(\d+)[^(]+\((\d+):(\d+)/,
@@ -104,15 +100,10 @@ module.exports.matches = function(data) {
 
   matches = _.sortBy(matches, 'id');
 
-  return matches;
-}
-
-module.exports.adjustDate = function(date) {
-  App.dateMargin = date.hour(12).minute(0).second(0);
-
-  global.App.matches = _.map(global.App.matches, function(item) {
+  matches = _.map(matches, function(item) {
     item.played = item.date.isBefore(global.App.dateMargin);
     return item;
   });
-  console.dir(App.dateMargin);
+
+  return matches;
 }

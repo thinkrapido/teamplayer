@@ -1,7 +1,7 @@
 
 var moment = require('moment');
 var util = require('util');
-var mapData = require('./helper/mapData');
+var date = require('../app/date');
 
 var startDate = moment('2014/06/10');
 
@@ -28,7 +28,6 @@ module.exports.adjustDatePage = function(req, res) {
 }
 
 module.exports.adjustDate = function(req, res) {
-  mapData.adjustDate(moment(util.format('%s/%s/%s 12:00', req.param('year'), req.param('month'), req.param('day'))));
-
+  date.changeDate(moment(util.format('%s/%s/%s 12:00', req.param('year'), req.param('month'), req.param('day'))));
   res.redirect('/maintenance/adjust-date');
 }

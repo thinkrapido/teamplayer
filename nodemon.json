@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "ignore": ["data/*"],
+  "execMap": {
+    "hello": "echo 'hello world'"
+  }
+}
