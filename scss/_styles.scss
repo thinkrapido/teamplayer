@@ -1,0 +1,31 @@
+table.match {
+  width: 100%;
+  td.team {
+    width: 35%;
+  }
+  td.score {
+    width: 30%;
+  }
+  td {
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 3em;
+  }
+  p {
+    font-size: 3em;
+  }
+  .final {
+    font-weight: bold;
+    font-size: 5em;
+  }
+  .tip input {
+    font-size: 1.5em;
+    height: 2em;
+    width: 1em;
+    display: inline;
+    text-align: center;
+  }
+  img.flag.big {
+    width: 200px;
+  }
+}
