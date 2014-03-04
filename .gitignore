@@ -1,2 +1,4 @@
 node_modules/
 dependencies/
+server/public/**/*
+.sass-cache/

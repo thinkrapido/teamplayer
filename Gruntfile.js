@@ -7,10 +7,18 @@ module.exports = function(grunt) {
     nodemon: {
       options: {
         cwd: path.join(__dirname, 'server'),
-        ignore: ['node_modules/**', 'data/*']
+        ignore: ['node_modules/**', 'data/*', 'public/**/*']
       },
       dev: {
         script: 'app.js'
+      }
+    },
+
+    compass: {
+      dist: {
+        options: {
+          config: 'config/compass/config.rb'
+        }
       }
     }
   });
@@ -23,6 +31,8 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-ember-templates');
 
-  grunt.registerTask('default', ['nodemon']);
+  grunt.registerTask('css', ['compass']);
+
+  grunt.registerTask('default', ['compass', 'nodemon']);
 
 }
