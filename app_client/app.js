@@ -4,7 +4,8 @@
   should manage for you.
 */
 window.Todos = Ember.Application.create({
-  rootElement: window.TESTING ? '#qunit-fixture' : '#todoapp'
+  rootElement: window.TESTING ? '#qunit-fixture' : '#emberapp',
+  LOG_TRANSITIONS: true
 });
 
 if (window.TESTING) {

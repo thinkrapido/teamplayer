@@ -5,7 +5,7 @@ require('dependencies/components-foundation/js/foundation');
 
 $(document).foundation();
 
-require('dependencies/handlebars/handlebars-runtime');
+require('dependencies/handlebars/handlebars.runtime');
 
 require('dependencies/ember/ember');
 

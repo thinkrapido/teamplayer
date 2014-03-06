@@ -3,27 +3,4 @@ extends layout
 include _includes/displayScore
 
 block content
-  .row
-    .large-12.columns
-      h1= title
-        small= subtitle
-
-  -if (nextMatches[0])
-    .row
-      .large-12.columns
-        h3 N&auml;chster Spieltag
-          small= (nextMatches[0]) ? nextMatches[0].date : ''
-
-    each match in nextMatches
-
-      +displayScoreRow(match)
-
-  -if (playedMatches[0])
-    .row
-      .large-12.columns
-        h3 Letzter Spieltag
-          small= (playedMatches[0]) ? playedMatches[0].date : ''
-
-    each match in playedMatches
-
-      +displayScoreRow(match)
+  #emberapp

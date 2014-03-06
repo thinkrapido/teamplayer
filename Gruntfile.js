@@ -24,13 +24,18 @@ module.exports = function(grunt) {
       }
     },
 
-    ember_templates: {
-      options: {
-        templateName: function(sourceFile) {
-          return sourceFile.replace(/app_client\/templates\//, '');
-        }
-      },
-      'javascript/templates.js': ['app_client/templates/**/*.hbs']
+    emberhandlebars: {
+      compile: {
+        options: {
+          templateName: function(sourceFile) {
+            return sourceFile
+              .replace('app_client/templates/', '')
+              .replace('.hbs', '');
+          }
+        },
+        files: ['app_client/templates/**/*.hbs'],
+        dest: 'javascript/templates.js'
+      }
     },
 
     neuter: {
@@ -47,7 +52,16 @@ module.exports = function(grunt) {
           cwd: path.join(__dirname, 'build', 'uncompressed', 'javascripts'),
           src: ['**/*'],
           dest: ['server/public/javascripts/']
-        }]
+        }],
+        options: {
+          processContent: function(content, file) {
+            if (path.basename(file) == 'footer.js') {
+              content = content.replace('var Handlebars = (function() {', 
+                'var Handlebars = window.Handlebars = (function() {');
+            }
+            return content;
+          }
+        }
       },
       stylesheets: {
         files: [{
@@ -80,12 +94,12 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-concat');
   grunt.loadNpmTasks('grunt-contrib-clean');
-  grunt.loadNpmTasks('grunt-ember-templates');
+  grunt.loadNpmTasks('grunt-ember-template-compiler');
   grunt.loadNpmTasks('grunt-copy-to');
 
   grunt.registerTask('css', ['compass']);
 
-  grunt.registerTask('concat:javascript', ['concat:dist', 'ember_templates', 'neuter']);
+  grunt.registerTask('concat:javascript', ['concat:dist', 'emberhandlebars', 'neuter']);
 
   grunt.registerTask('publish:javascript', ['concat:javascript', 'copyto:javascript']);
 
