@@ -1,0 +1,2 @@
+
+require('dependencies/modernizr/modernizr');
