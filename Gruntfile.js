@@ -80,9 +80,29 @@ module.exports = function(grunt) {
       }
     },
 
+    watch: {
+      app: {
+        files: ['app_client/**/*'],
+        tasks: ['publish:javascript']
+      },
+      css: {
+        files: ['scss/**/*'],
+        tasks: ['publish:stylesheets']
+      }
+    },
+
     clean: {
       public: ['server/public/*'],
       build: ['build/*']
+    },
+
+    concurrent: {
+      target: {
+        tasks: ['publish', 'nodemon', 'watch'],
+        options: {
+          logConcurrentOutput: true
+        }
+      }
     }
   });
 
@@ -96,6 +116,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-ember-template-compiler');
   grunt.loadNpmTasks('grunt-copy-to');
+  grunt.loadNpmTasks('grunt-concurrent');
 
   grunt.registerTask('css', ['compass']);
 
@@ -107,6 +128,6 @@ module.exports = function(grunt) {
 
   grunt.registerTask('publish', ['publish:javascript', 'publish:stylesheets']);
 
-  grunt.registerTask('default', ['publish', 'nodemon']);
+  grunt.registerTask('default', ['concurrent:target']);
 
 }
