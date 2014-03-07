@@ -16,7 +16,8 @@
   ],
   "dependencies": {
     "components-foundation": "~5.1.1",
-    "ember": "~1.4.0"
+    "ember": "~1.4.0",
+    "underscore": "~1.6.0"
   },
   "resolutions": {
     "jquery": ">= 2.1.0"

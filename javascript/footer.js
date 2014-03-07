@@ -1,4 +1,6 @@
 
+require('dependencies/underscore/underscore');
+
 require('dependencies/jquery/dist/jquery');
 
 require('dependencies/components-foundation/js/foundation');

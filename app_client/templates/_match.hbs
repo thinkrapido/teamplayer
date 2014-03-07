@@ -1,0 +1,28 @@
+<div class="row">
+  <div class="large-12 columns">
+    <div class="panel">
+      <div class="alert-box">{{date}}</div>
+      <table class="match">
+        <tbody>
+          <tr>
+            <td class="team A">
+              <p><img {{bind-attr src=A.flag}} class="flag big"></p>
+              <p class="country">{{A.country}}</p>
+            </td>
+            <td class="score">
+              <h6>Tipp abgeben</h6>
+              <p class="tip"><span>
+                  <input type="text" placeholder="-" maxlength="1" {{bind-attr value=A.score}} class="tip"></span>
+                  <span>&nbsp;:&nbsp;</span><span>
+                  <input type="text" placeholder="-" maxlength="1" {{bind-attr value=B.score}} class="tip"></span></p>
+            </td>
+            <td class="team B">
+              <p><img {{bind-attr src=B.flag}} class="flag big"></p>
+              <p class="country">{{B.country}}</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
