@@ -1,9 +1,17 @@
-<header id="header">
-  <h1>todos</h1>
-</header>
-<!-- this will insert an instance of the CreateTodoTextField view -->
-{{view Todos.CreateTodoTextField}}
+<nav data-topbar="" class="top-bar">
+  <ul class="title-area">
+    <li class="name">
+      <h1>{{#link-to 'today'}}Startseite{{/link-to}}</a></h1>
+    </li>
+  </ul>
+    
+  <section class="top-bar-section">
+    <ul class="right">
+      <li class="active has-dropdown">{{#link-to 'login'}}Login{{/link-to}}</a>
+        <ul class="dropdown">{{#link-to 'logout'}}Logout{{/link-to}}</a></ul>
+      </li>
+    </ul>
+  </section>
+</nav>
 
-<!-- a dynamic section of the view hierarchy that will be filled in
-     response to routing changes -->
 {{outlet}}

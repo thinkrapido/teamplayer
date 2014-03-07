@@ -34,10 +34,12 @@
   you are starting the application directly at a particular
   route or entering that route at a later point.
 */
-Todos.Router.map(function() {
-  this.resource("todos", {path: "/"}, function(){
-    this.route("allTodos", {path: "/"});
-    this.route("activeTodos", {path: "/active"});
-    this.route("completedTodos", {path: "/completed"});
-  });
+App.Router.map(function() {
+  this.route("today", {path: "/"});
+  this.route('login', {path: '/login'});
+  this.route('logout', {path: '/logout'});
+});
+
+App.Router.reopen({
+  location: 'history'
 });
